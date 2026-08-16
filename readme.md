@@ -1,5 +1,7 @@
 # Reproducing Grokking from Scratch in PyTorch
 
+> A from-scratch PyTorch reproduction of grokking on modular addition (1-layer transformer, Nanda-style setup), with four ablations over weight decay, data fraction and learning rate, plus an unplanned reproduction of the slingshot effect.
+
 ## 1. Introduction
 
 A model trained on a small algorithmic task first memorizes its training data and then, thousands of epochs after train loss hits zero, abruptly generalizes. It's exactly the delay between memorization and generalization that is the phenomenon - **grokking**, first discovered by Power et al.
