@@ -153,3 +153,7 @@ The last point is experimental hygiene. Every claim in section 4 rests on predic
 2. Nanda, N., Chan, L., Lieberum, T., Smith, J., & Steinhardt, J. (2023). *Progress Measures for Grokking via Mechanistic Interpretability.* [arXiv:2301.05217](https://arxiv.org/abs/2301.05217) — working reference for this project was the accompanying notebook, [A Mechanistic Interpretability Analysis of Grokking](https://colab.research.google.com/github/TransformerLensOrg/TransformerLens/blob/main/demos/Grokking_Demo.ipynb)
 
 3. Thilak, V., Littwin, E., Zhai, S., Saremi, O., Paiss, R., & Susskind, J. (2022). *The Slingshot Mechanism: An Empirical Study of Adaptive Optimizers and the Grokking Phenomenon.* [arXiv:2206.04817](https://arxiv.org/abs/2206.04817)
+
+## AI disclaimer
+
+The code and the writeup were written by hand, AI was used only as a teacher with the Stanford Claude.md prompt to ensure no answer leakage.
