@@ -1,2 +1,15 @@
 *.pt
 TODO.md
+
+# experiment run folders (keep figures/)
+baseline/
+eps_1e-4/
+eps_1e-6/
+frac01/
+frac05/
+lr-drop/
+norm-experiment-baseline/
+norm-experiment-lr-drop/
+norm-experiment-lr-drop-extra/
+norm-experiment-lr-rise/
+wd0/
